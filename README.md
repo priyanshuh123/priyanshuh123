@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sandeep Muhal</h1>
-<h3 align="center"> Machine Learning Enthusiast | Current Mastering Deep Learning and AI | Passionate Problem Solver</h3>
+<h1 align="center">Hi 👋, Priyanshu Chanwariya</h1>
+<h3 align="center"> We development Enthisast |Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+and+Building+Something.;I+accept+365+Days+Challenge.;Follow+Me+On+YouTube+And+Instagram." alt="Typing SVG" />
@@ -19,11 +19,7 @@
 - Current i am working an project Cancer Detection device with my team.
 - 📚 *Currently Learning:* Advancing in *Machine Learning, AI, and Full-Stack Development*.
 - 🎯 *Goal:* Secure a *75 LPA job* at a top-tier company by *end of 2025*.
-- 🚀 *365 Days Challenge:* Uploading my progress on *[YouTube](https://www.youtube.com/@sandeepmuhal88/)*.
-- 🌐 *Portfolio:* [Visit Here](https://sandeepmuhal88.github.io/PortFolio_Website_Sandeep/)
-- 📫 *Contact Me:* sandeepmuhal8840@gmail.com
-- 📄 *Resume:* [View Here](https://drive.google.com/file/d/1x9k8SuxiB4L6tKHX9t4eOV52rIdsTqya/view?usp=drivesdk)
-
+- 📫 *Contact Me:* chanwariyapriyanshu@gmail.com
 ---
 
 ## 🔗 Connect With Me
@@ -34,15 +30,8 @@
   <a href="https://twitter.com/i_sandeepmuhal8" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.kaggle.com/sandeepmuhal" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://leetcode.com/u/codehackesm/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.hackerrank.com/sandeepmuhal9982" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+
+
 </p>
 
 ---
