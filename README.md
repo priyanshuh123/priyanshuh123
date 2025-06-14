@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Chanwariya</h1>
-<h3 align="center">Web Development Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">Full Stack Web Developer | Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Always+Learning+and+Building+Something.;I+accept+365+Days+Challenge.;Follow+Me+On+YouTube+And+Instagram." alt="Typing SVG" />
@@ -14,11 +14,10 @@
 
 ## 🚀 About Me
 - 🎓 *3rd-year B.Tech Student* at Bikaner Technical University (CSE).
-- 💻 *Tech Stack:* Python (DSA, Django, NumPy), Java, and basic knowledge of C++ & C.
-- 🛠️ *Projects:* Created 4+ Python projects showcasing real-world problem-solving.
-- 🤖 *Current Project:* Working on a **Cancer Detection Device** with my team.
-- 📚 *Learning:* Machine Learning, AI, and Full-Stack Development.
-- 🎯 *Goal:* Land a **75 LPA** job by the end of **2025**.
+- 🌐 *Full Stack Web Developer* with a passion for clean UI & efficient backend logic.
+- 🔧 *Tech Stack:* JavaScript, React, Node.js, Express, MongoDB, Python, and more.
+- 🧠 *Projects:* Built various web apps from frontend to backend.
+- 🎯 *Goal:* Become a top-tier Full Stack Developer and secure a dream job by 2025.
 - 📩 *Reach Me:* chanwariyapriyanshu@gmail.com
 
 ---
@@ -36,49 +35,17 @@
 
 ---
 
-## ⚒️ Languages, Tools & Frameworks
+## ⚙️ Languages, Tools & Frameworks
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuchanwariya&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuchanwariya&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuchanwariya&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshuchanwariya&theme=darkhub" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuchanwariya&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
