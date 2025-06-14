@@ -24,10 +24,10 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/sandeep-muhal-5672aa285" target="blank">
+  <a href=: "https://www.linkedin.com/in/priyanshu-chanwariya-a28708254/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://twitter.com/i_sandeepmuhal8" target="blank">
+  <a href="" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="transform: scale(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 
